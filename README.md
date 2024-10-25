@@ -1,5 +1,6 @@
 # Publify
 
+
 **The Ruby on Rails publishing software formerly known as Typo**
 
 [![Build status](https://github.com/publify/publify/actions/workflows/ruby.yml/badge.svg)](https://github.com/publify/publify/actions/workflows/ruby.yml)
